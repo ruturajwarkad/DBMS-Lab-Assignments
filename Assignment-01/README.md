@@ -1,4 +1,4 @@
-# Assignment 1 – Movie Ticket Booking System
+# Assignment 1 
 
 This assignment involves designing a movie ticket booking system using ER modeling and normalization concepts.
 
